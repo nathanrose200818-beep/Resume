@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nathan Rose | Resume</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 850px;
+      margin: 50px auto;
+      padding: 0 25px;
+      color: #222;
+      line-height: 1.5;
+    }
+
+    h1 {
+      margin-bottom: 5px;
+      font-size: 34px;
+    }
+
+    .contact {
+      margin-bottom: 35px;
+      color: #555;
+    }
+
+    h2 {
+      margin-top: 35px;
+      border-bottom: 1px solid #bbb;
+      padding-bottom: 5px;
+      text-transform: uppercase;
+      font-size: 19px;
+      letter-spacing: 1px;
+    }
+
+    h3 {
+      margin-bottom: 2px;
+      font-size: 18px;
+    }
+
+    .role {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    .entry {
+      margin-bottom: 25px;
+    }
+
+    ul {
+      margin-top: 7px;
+    }
+
+    li {
+      margin-bottom: 4px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Nathan Rose</h1>
+
+  <div class="contact">
+    Boston, MA & San Francisco Bay Area
+  </div>
+
+  <h2>Education</h2>
+
+  <div class="entry">
+    <h3>Boston College — Carroll School of Management</h3>
+    <p class="role">B.S. Candidate | Expected May 2030</p>
+    <p>Intended Concentration: Finance</p>
+  </div>
+
+  <div class="entry">
+    <h3>St. Ignatius College Preparatory</h3>
+    <p class="role">San Francisco, CA | Graduated May 2026</p>
+    <p>
+      Activities: Varsity Waterpolo and Swim, Finance Club Co-Pres, Gardening Club Founder
+    </p>
+  </div>
+
+  <h2>Experience</h2>
+
+  <div class="entry">
+    <h3>Brownstone Investment Group LLC</h3>
+    <p class="role">Intern | New York, NY | June 2024 – July 2024</p>
+    <ul>
+      <li>Observed and learned about investment strategies and market analysis.</li>
+      <li>Shadowed senior analysts to understand their decision-making processes.</li>
+      <li>Gained exposure to various asset classes and investment vehicles.</li>
+      <li>Networked with professionals across the firm and developed a stronger understanding of the finance industry.</li>
+    </ul>
+  </div>
+
+  <div class="entry">
+    <h3>415 California Kicks</h3>
+    <p class="role">Founder | Marin County, CA | August 2022 – April 2023</p>
+    <ul>
+      <li>Acquired shoes and clothing for resale to expand product offerings.</li>
+      <li>Developed marketing strategies to engage target customers and drive sales.</li>
+      <li>Managed inventory to optimize stock levels and reduce costs.</li>
+      <li>Built relationships with sellers and buyers to expand market reach.</li>
+    </ul>
+  </div>
+
+  <div class="entry">
+    <h3>Marin County Office of Emergency Management</h3>
+    <p class="role">Intern | San Rafael, CA | May 2023 – July 2023</p>
+    <ul>
+      <li>Learned about emergency relief grants and their administration for Marin County communities.</li>
+      <li>Visited disaster-prone sites across Marin County to assess community needs.</li>
+      <li>Assembled new computers and organized filing systems to improve office efficiency.</li>
+      <li>Contributed to preparation of the Marin County OEM website for public accessibility.</li>
+    </ul>
+  </div>
+
+  <div class="entry">
+    <h3>Swirl</h3>
+    <p class="role">Cashier | San Anselmo, CA | February 2024 – March 2026</p>
+    <ul>
+      <li>Arranged merchandise and organized promotional displays to support sales.</li>
+      <li>Assisted customers and addressed inquiries.</li>
+      <li>Counted and balanced cashier drawers accurately at the end of shifts.</li>
+      <li>Maintained an organized work area and managed cash drawer operations.</li>
+    </ul>
+  </div>
+
+  <div class="entry">
+    <h3>Agricultural Institute of Marin</h3>
+    <p class="role">Volunteer | San Rafael, CA | March 2025 – August 2025</p>
+    <ul>
+      <li>Facilitated EBT card transactions for customer purchases.</li>
+      <li>Provided information and assistance at the information booth.</li>
+      <li>Engaged with market attendees to answer questions and improve their experience.</li>
+    </ul>
+  </div>
+
+</body>
+</html>
